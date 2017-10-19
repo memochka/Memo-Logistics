@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="f:\Документы\Программирование\C#\Проэкты\Memo Logistics\Memo Logistics\obj\Debug\Package\PackageTmp" />
+  <setAcl path="f:\Документы\Программирование\C#\Проэкты\Memo Logistics\Memo Logistics\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="f:\Документы\Программирование\C#\Проэкты\Memo Logistics\Memo Logistics\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

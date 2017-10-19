@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="LogisticsContext-Web.config Connection String" description="LogisticsContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDBFilename=|DataDirectory|\Memo_Logistics1;Integrated Security=SSPI;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="f:\\Документы\\Программирование\\C\#\\Проэкты\\Memo\ Logistics\\Memo\ Logistics\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='LogisticsContext']/@connectionString" />
+  </parameter>
+</parameters>

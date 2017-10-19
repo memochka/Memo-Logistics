@@ -1,0 +1,76 @@
+﻿@model PagedList.IPagedList<Memo_Logistics.Models.Trucks>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+
+@{
+    ViewBag.Title = "Trucks";
+}
+
+<h2>Trucks</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("Index", "Trucks", FormMethod.Get))
+{
+    
+    <div class="form-group form-inline">
+        <label class="control-label">Find by Truck number: </label>
+        @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+
+        <label class="control-label">Select Customer: </label>
+        @Html.DropDownList("SelectedCustomers", "All")
+        <input type="submit" value="Filter" />
+    </div>
+}
+
+<table class="table">
+    <tr>
+       
+        <th>
+            @Html.ActionLink("Number", "Index", new { sortOrder = ViewBag.NumberSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Truck", "Index", new { sortOrder = ViewBag.TruckSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Mileage", "Index", new { sortOrder = ViewBag.MilageSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+        <th>
+            @Html.ActionLink("Customer", "Index", new { sortOrder = ViewBag.CustomerSortParm, currentFilter = ViewBag.CurrentFilter })
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TruckID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Truck)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mileage)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.TruckID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.TruckID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.TruckID })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Memo_Logistics.ViewModels.OrderDateGroup>
+
+@{
+    ViewBag.Title = "Customers Statistics";
+}
+
+<h2>Customers Statistics</h2>
+
+<table class="table">
+    <tr>
+        <th>
+            Order Date        
+        </th>
+        <th>
+            Customers
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            <td>
+                @item.CustomersCount
+            </td>
+        </tr>
+    }
+</table>

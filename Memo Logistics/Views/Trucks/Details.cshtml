@@ -1,0 +1,50 @@
+﻿@model Memo_Logistics.Models.Trucks
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Trucks</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Customer
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Customer.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TruckID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TruckID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Truck)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Truck)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mileage)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mileage)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TruckID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

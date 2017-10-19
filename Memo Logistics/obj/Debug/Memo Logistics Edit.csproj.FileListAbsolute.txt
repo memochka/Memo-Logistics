@@ -1,0 +1,154 @@
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\ApplicationInsights.config
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csc.exe
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csc.exe.config
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csc.rsp
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csi.exe
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csi.rsp
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CSharp.Core.targets
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.AppContext.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.Collections.Immutable.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.Diagnostics.StackTrace.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.IO.FileSystem.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.IO.FileSystem.Primitives.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.Reflection.Metadata.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\vbc.exe
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\vbc.exe.config
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\vbc.rsp
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\VBCSCompiler.exe
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\VBCSCompiler.exe.config
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Memo Logistics.dll.config
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Memo Logistics.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Memo Logistics.pdb
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Antlr3.Runtime.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.SqlServer.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.Agent.Intercept.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.DependencyCollector.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.PerfCounterCollector.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.ServerTelemetryChannel.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.Web.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.WindowsServer.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.ApplicationInsights.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.Web.Infrastructure.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Newtonsoft.Json.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.Mvc.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Helpers.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Mvc.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Optimization.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Razor.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Deployment.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Razor.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\WebGrease.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.SqlServer.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.Mvc.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Helpers.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Mvc.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Optimization.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Razor.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Deployment.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Razor.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Antlr3.Runtime.pdb
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Newtonsoft.Json.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.ApplicationInsights.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.DependencyCollector.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.ServerTelemetryChannel.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.WindowsServer.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.Web.xml
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics Edit.csprojResolveAssemblyReference.cache
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics.dll
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics.pdb
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo_Logistics.Migrations.ComplexDataModel.resources
+f:\Документы\Программирование\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics Edit.csproj.GenerateResource.Cache
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\ApplicationInsights.config
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csc.exe
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csc.exe.config
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csc.rsp
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csi.exe
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\csi.rsp
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.AppContext.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.Collections.Immutable.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.IO.FileSystem.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\System.Reflection.Metadata.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\vbc.exe
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\vbc.exe.config
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\vbc.rsp
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\VBCSCompiler.exe
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\roslyn\VBCSCompiler.exe.config
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Memo Logistics.dll.config
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Memo Logistics.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Memo Logistics.pdb
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Antlr3.Runtime.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.SqlServer.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.DependencyCollector.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.Web.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.WindowsServer.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.ApplicationInsights.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.Web.Infrastructure.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Newtonsoft.Json.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.Mvc.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Helpers.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Mvc.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Optimization.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Razor.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Deployment.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Razor.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\WebGrease.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\EntityFramework.SqlServer.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\PagedList.Mvc.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Helpers.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Mvc.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Optimization.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.Razor.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Deployment.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\System.Web.WebPages.Razor.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Antlr3.Runtime.pdb
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Newtonsoft.Json.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.ApplicationInsights.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.DependencyCollector.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.WindowsServer.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\bin\Microsoft.AI.Web.xml
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics Edit.csprojResolveAssemblyReference.cache
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo_Logistics.Migrations.ComplexDataModel.resources
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics Edit.csproj.GenerateResource.Cache
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics.dll
+c:\Примеры Кода\Memo Logistics Edit\Memo Logistics\Memo Logistics\obj\Debug\Memo Logistics.pdb
